@@ -1,0 +1,1 @@
+This project focuses on secure cloud-based document collaboration and real-time sharing features.
